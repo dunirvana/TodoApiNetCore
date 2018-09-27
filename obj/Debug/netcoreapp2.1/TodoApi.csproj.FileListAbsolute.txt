@@ -12,3 +12,5 @@ C:\Projetos\Git\Exemplos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
 C:\Projetos\Git\Exemplos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
 C:\Projetos\Git\Exemplos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
 C:\Projetos\Git\Exemplos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Projetos\Git\Exemplos\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.xml
+C:\Projetos\Git\Exemplos\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.xml
