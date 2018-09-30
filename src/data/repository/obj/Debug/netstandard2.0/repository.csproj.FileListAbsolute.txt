@@ -1,0 +1,9 @@
+C:\Projetos\Git\Exemplos\TodoApi\src\data\repository\bin\Debug\netstandard2.0\repository.deps.json
+C:\Projetos\Git\Exemplos\TodoApi\src\data\repository\bin\Debug\netstandard2.0\repository.dll
+C:\Projetos\Git\Exemplos\TodoApi\src\data\repository\bin\Debug\netstandard2.0\repository.pdb
+C:\Projetos\Git\Exemplos\TodoApi\src\data\repository\obj\Debug\netstandard2.0\repository.csprojAssemblyReference.cache
+C:\Projetos\Git\Exemplos\TodoApi\src\data\repository\obj\Debug\netstandard2.0\repository.csproj.CoreCompileInputs.cache
+C:\Projetos\Git\Exemplos\TodoApi\src\data\repository\obj\Debug\netstandard2.0\repository.AssemblyInfoInputs.cache
+C:\Projetos\Git\Exemplos\TodoApi\src\data\repository\obj\Debug\netstandard2.0\repository.AssemblyInfo.cs
+C:\Projetos\Git\Exemplos\TodoApi\src\data\repository\obj\Debug\netstandard2.0\repository.dll
+C:\Projetos\Git\Exemplos\TodoApi\src\data\repository\obj\Debug\netstandard2.0\repository.pdb

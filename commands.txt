@@ -1,0 +1,12 @@
+********
+Examples
+********
+
+* Create new projects:
+dotnet new classlib -o repository
+
+* Add project to solution:
+dotnet sln add .\src\api\TodoApi.csproj
+
+* Add a reference to a project:
+dotnet add reference ..\data\repository\respository.csproj;
